@@ -44,7 +44,7 @@
     "vite-tsconfig-paths": "^5.0.1"
   },
   "devDependencies": {
-    "@cloudflare/workers-types": "^4.20250121.0",
+    "@cloudflare/workers-types": "^4.20250129.0",
     "@remix-run/eslint-config": "^2.7.1",
     "@remix-run/route-config": "^2.15.0",
     "@shopify/api-codegen-preset": "^1.1.1",
