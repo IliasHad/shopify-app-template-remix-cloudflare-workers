@@ -46,7 +46,7 @@
   "devDependencies": {
     "@cloudflare/workers-types": "^4.20250121.0",
     "@remix-run/eslint-config": "^2.7.1",
-    "@remix-run/route-config": "^2.15.0",
+    "@remix-run/route-config": "^2.15.3",
     "@shopify/api-codegen-preset": "^1.1.1",
     "@types/eslint": "^9.6.1",
     "@types/node": "^22.2.0",
