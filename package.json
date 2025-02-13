@@ -25,7 +25,7 @@
   },
   "dependencies": {
     "@prisma/client": "^6.2.1",
-    "@prisma/extension-accelerate": "^1.2.1",
+    "@prisma/extension-accelerate": "^1.2.2",
     "@remix-run/cloudflare": "^2.15.2",
     "@remix-run/dev": "^2.7.1",
     "@remix-run/fs-routes": "^2.15.0",
