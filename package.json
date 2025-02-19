@@ -24,7 +24,7 @@
     "node": "^18.20 || ^20.10 || >=21.0.0"
   },
   "dependencies": {
-    "@prisma/client": "^6.2.1",
+    "@prisma/client": "^6.4.0",
     "@prisma/extension-accelerate": "^1.2.1",
     "@remix-run/cloudflare": "^2.15.2",
     "@remix-run/dev": "^2.7.1",
